@@ -1,3 +1,3 @@
-module github.com/atomicjolt/lms_go
+module github.com/atomicjolt/string_utils
 
 go 1.15
