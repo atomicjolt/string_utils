@@ -1,4 +1,4 @@
-package canvas
+package string_utils
 
 import (
 	"reflect"

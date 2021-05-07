@@ -1,4 +1,4 @@
-package canvas
+package string_utils
 
 // Portions taken from https://gobyexample.com/collection-functions
 
